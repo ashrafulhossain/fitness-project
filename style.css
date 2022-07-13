@@ -99,3 +99,108 @@ body {
     width: 100px;
     border-radius: 10px;
 }
+
+.design {
+    background-color: black;
+    color: white;
+}
+
+.middile {
+    display: flex;
+}
+
+.nice {
+    margin-top: 50px;
+    height: 500px;
+    padding: 20px;
+    margin-left: 2%;
+    transform: skewY(-15deg);
+    padding-bottom: 40px;
+
+}
+
+.bates {
+    margin-top: 50px;
+    height: 500px;
+    padding: 20px;
+    transform: skewY(-15deg);
+    padding-bottom: 40px;
+}
+
+.content {
+    text-align: center;
+}
+
+hr {
+    color: brown;
+}
+
+.write {
+    font-size: 300%;
+}
+
+.logo {
+    border-radius: 10px;
+    background-color: orangered;
+
+}
+
+.first {
+    text-align: center;
+    margin-top: 40px;
+    font-size: 60px;
+
+}
+
+.fine {
+    margin-left: 3%;
+    border: 2px;
+    box-shadow: 5px 5px 5px gray;
+    width: 50%;
+}
+
+
+.good {
+    color: red;
+}
+
+.higher {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 100px;
+    padding-bottom: 60px;
+
+}
+
+.okey {
+    display: flex;
+    justify-content: space-between;
+}
+
+.conteinu {
+    width: 100%;
+}
+
+.pop-up {
+    color: red;
+}
+
+.digital {
+    display: flex;
+    margin-left: 42%;
+    font-weight: bold;
+}
+
+.data {
+    padding-left: 5%;
+}
+
+.near {
+    text-align: center;
+    margin-bottom: 40px;
+    padding-bottom: 10%;
+}
+
+.name {
+    color: red;
+}
